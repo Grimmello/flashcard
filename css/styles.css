@@ -1,0 +1,127 @@
+/*#row1column1a {
+  display: none;
+}
+#row1column2a {
+  display: none;
+}
+#row1column3a {
+  display: none;
+}
+#row1column4a {
+  display: none;
+}
+#row2column1a {
+  display: none;
+}
+#row2column2a {
+  display: none;
+}
+#row2column3a {
+  display: none;
+}
+#row2column4a {
+  display: none;
+}
+#row3column1a {
+  display: none;
+}
+#row3column2a {
+  display: none;
+}
+#row3column3a {
+  display: none;
+}
+#row3column4a {
+  display: none;
+}
+#row4column1a {
+  display: none;
+}
+#row4column2a {
+  display: none;
+}
+#row4column3a {
+  display: none;
+}
+#row4column4a {
+  display: none;
+}
+#row5column1a {
+  display: none;
+}
+#row5column2a {
+  display: none;
+}
+#row5column3a {
+  display: none;
+}
+#row5column4a {
+  display: none;
+}*/
+#row1column1 {
+  display: none;
+}
+#row1column2 {
+  display: none;
+}
+#row1column3 {
+  display: none;
+}
+#row1column4 {
+  display: none;
+}
+#row2column1 {
+  display: none;
+}
+#row2column2 {
+  display: none;
+}
+#row2column3 {
+  display: none;
+}
+#row2column4 {
+  display: none;
+}
+#row3column1 {
+  display: none;
+}
+#row3column2 {
+  display: none;
+}
+#row3column3 {
+  display: none;
+}
+#row3column4 {
+  display: none;
+}
+#row4column1 {
+  display: none;
+}
+#row4column2 {
+  display: none;
+}
+#row4column3 {
+  display: none;
+}
+#row4column4 {
+  display: none;
+}
+#row5column1 {
+  display: none;
+}
+#row5column2 {
+  display: none;
+}
+#row5column3 {
+  display: none;
+}
+#row5column4 {
+  display: none;
+}
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
